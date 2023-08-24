@@ -13,6 +13,6 @@ git rm --cached <file_name>🦴️
 git rm -f <file_name>🤯️
 // to save your stage 
 git commit -m "your comment"☺️//m stand for message
-again
+
 
 
