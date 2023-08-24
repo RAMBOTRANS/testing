@@ -1,0 +1,18 @@
+// to initialize  a folder with git
+// you must be with in a folder to excute this command
+//the folder is tracked by git
+git init 😀️
+//to stage the git / to add your file so that they can be tracked by git 
+git add <file_name>😶‍🌫️️ //for single file
+git add . 🫣️//for all files
+//to check the tracking status:
+git status🙀️
+// to remove what you have stage before commiting 
+git rm --cached <file_name>🦴️ 
+// to delete file parmanently from repository 
+git rm -f <file_name>🤯️
+// to save your stage 
+git commit -m "your comment"☺️//m stand for message
+again
+
+
